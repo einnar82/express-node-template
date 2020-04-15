@@ -1,6 +1,6 @@
 # express-node-template
 
-Basic Node.js and Express Starter Template
+Dead Simple Node.js and Express Starter Template
 
 Includes the following:
 
