@@ -8,3 +8,4 @@ Includes the following:
     - body-parser
     - cors
     - express
+    - dotenv
